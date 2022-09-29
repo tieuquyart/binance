@@ -1,0 +1,52 @@
+.sideBarContainer {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: flex;
+    background-color: rgb(24, 26, 32);
+    border-right: 1px solid rgb(71, 77, 87);
+    position: relative;
+    z-index: 1;
+    width: 240px;
+    flex-direction: column;
+    -webkit-box-pack: justify;
+    height: auto;
+}
+
+.container{
+display: flex;
+text-decoration: none;
+padding: 10px 20px;
+
+}
+
+.container:hover {
+    background-color:#2b3139
+}
+
+.Page {
+    background-color:#2b3139
+}
+
+.logo {
+    width: 24px;
+    height: 24px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+.title {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    display: flex;
+    flex: 1 1 0%;
+    height: 100%;
+    -webkit-box-align: center;
+    align-items: center;
+    color: rgb(234, 236, 239);
+    margin-bottom: 10px;
+}

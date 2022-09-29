@@ -1,0 +1,37 @@
+@import 'normalize.css';
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@100;200;300;400;500;600;700&display=swap');
+@import 'antd/dist/antd.css';
+
+:root {
+    --primary: #ea4335;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Josefin Slab', serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-rendering: optimizeSpeed;
+}
+.ant-form-item {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.ant-form-item-required {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.ant-form-item  {
+    margin-bottom: 10px;
+}

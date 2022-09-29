@@ -1,0 +1,144 @@
+.container {
+}
+.header {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: flex;
+    position: relative;
+    flex: 1 1 0%;
+    padding: 24px 0px;
+    background-color: rgb(11, 14, 17);
+}
+.contact {
+}
+.titleContact {
+    display: flex;
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    word-break: break-all;
+    -webkit-box-orient: vertical;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: rgb(234, 236, 239);
+    padding: 10px 20px;
+}
+.description {
+    display: flex;
+}
+
+.image {
+    width: 64px;
+    height: 64px;
+    margin: 0 30px;
+    cursor: pointer;
+}
+
+.iconEdit {
+    font-size: 16px;
+    margin-top: 2px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+// BALANCE
+
+.balance {
+    background-color: #181a20;
+    width: 100%;
+    height: auto;
+}
+
+.balanceTitle {
+    display: flex;
+    padding: 30px 40px;
+}
+
+.titleText {
+    box-sizing: border-box;
+    margin: 0px 8px 0px 0px;
+    min-width: 0px;
+    color: rgb(234, 236, 239);
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 28px;
+}
+
+.titleIcon {
+    padding: 0 10px;
+    color: rgb(132, 142, 156);
+    margin-top: 6px;
+}
+
+.currency {
+    padding: 0 40px;
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    cursor: pointer;
+    border-top-color: rgb(132, 142, 156);
+    border-right-color: rgb(132, 142, 156);
+    border-left-color: rgb(132, 142, 156);
+    color: rgb(234, 236, 239);
+}
+
+.currencyText {
+}
+
+.hot {
+    padding: 40px;
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    color: rgb(234, 236, 239);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+}
+.hotTitle {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    color: rgb(234, 236, 239);
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+}
+.table {
+}
+.table {
+}
+.tableTitle {
+    box-sizing: border-box;
+    margin: 0px -8px;
+    min-width: 0px;
+    display: flex;
+    padding: 0px 8px;
+    -webkit-box-align: center;
+    align-items: center;
+    border-radius: 8px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    color: rgb(132, 142, 156);
+    line-height: 18px;
+    font-size: 14px;
+}
+.tableName {
+    width: 30%;
+}
+.tablePrice {
+    width: 30%;
+}
+.tableChange {
+    width: 30%;
+}
+.div {
+    width: 10%;
+}
+.tableItem {
+}
