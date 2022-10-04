@@ -5,7 +5,7 @@ import { Fragment, useEffect } from 'react';
 import Login from './pages/Login';
 function App() {
     return (
-        <Router>
+        <Router basename='/binance'>
             <div className="App">
                 <Routes>
                     <Route
