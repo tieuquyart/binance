@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tieuquyart/binance/blob/main/public/index.html/static/css/main.37cb95ab.css",
-    "main.js": "/tieuquyart/binance/blob/main/public/index.html/static/js/main.e173e04b.js",
-    "static/js/787.4c9d15e8.chunk.js": "/tieuquyart/binance/blob/main/public/index.html/static/js/787.4c9d15e8.chunk.js",
-    "index.html": "/tieuquyart/binance/blob/main/public/index.html/index.html",
-    "main.37cb95ab.css.map": "/tieuquyart/binance/blob/main/public/index.html/static/css/main.37cb95ab.css.map",
-    "main.e173e04b.js.map": "/tieuquyart/binance/blob/main/public/index.html/static/js/main.e173e04b.js.map",
-    "787.4c9d15e8.chunk.js.map": "/tieuquyart/binance/blob/main/public/index.html/static/js/787.4c9d15e8.chunk.js.map"
+    "main.css": "/tieuquyart/binance.git/static/css/main.37cb95ab.css",
+    "main.js": "/tieuquyart/binance.git/static/js/main.ff52cd9c.js",
+    "static/js/787.4c9d15e8.chunk.js": "/tieuquyart/binance.git/static/js/787.4c9d15e8.chunk.js",
+    "index.html": "/tieuquyart/binance.git/index.html",
+    "main.37cb95ab.css.map": "/tieuquyart/binance.git/static/css/main.37cb95ab.css.map",
+    "main.ff52cd9c.js.map": "/tieuquyart/binance.git/static/js/main.ff52cd9c.js.map",
+    "787.4c9d15e8.chunk.js.map": "/tieuquyart/binance.git/static/js/787.4c9d15e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37cb95ab.css",
-    "static/js/main.e173e04b.js"
+    "static/js/main.ff52cd9c.js"
   ]
 }
